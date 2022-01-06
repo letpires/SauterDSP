@@ -1,2 +1,2 @@
 <p align="center">
-  <img height = 150; src="https://github.com/letpires/SauterDigital/blob/main/logo%20sauter.png">
+  <img height = 200; src="https://github.com/letpires/SauterDSP/blob/main/logo%20sauter%20dsp.png">
